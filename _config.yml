@@ -25,7 +25,7 @@ projects:
   limit: 9
   exclude:
     archived: true
-    forks: false
+    # forks: false
     projects:
      - hingbong.github.io
      - student-management-system-golang 
