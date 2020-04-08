@@ -18,6 +18,7 @@ defaults:
 
 projects:
   sort_by: pushed
+  sort_order: pushed
   # sort_by options:
   #   - pushed
   #   - stars
@@ -26,7 +27,12 @@ projects:
     archived: true
     forks: false
     projects:
-    # - repo-name
+     - hingbong.github.io
+     - student-management-system-golang 
+     - student-management-system
+     - ConsoleChatRoom
+     - cloud-note
+     - console-chatroom-golang
 
 # social_media:
   # behance: your_username
